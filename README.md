@@ -258,4 +258,4 @@ Here's how AI responds to your prompt in simple terms:
 Prompting is a way to communicate with AI and get accurate responses. Clear and specific prompts help AI understand and respond better. Different types of prompts, like zero-shot and few-shot, are useful for different tasks. If the response isn’t right, refining the prompt with more details can improve it. With practice, you can master prompting and make AI work effectively for you.
 
 ### Check Few Examples 
-[Prompts (Examples) for Different Use-Cases](https://github.com/curious-pm/AiPrompting/tree/main/Examples%20of%20promps%20for%20different%20use%20cases)
+[Prompts (Examples) for Different Use-Cases](https://github.com/curious-pm/AiPrompting/blob/main/Prompts%20(Examples)%20for%20Different%20Use-Cases/README.md)
